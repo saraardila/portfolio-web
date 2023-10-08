@@ -19,14 +19,7 @@ const App = () => {
 
     <Sidebar/>
     <main className='=main'>
-      <Home/>
-      <About/>
-      <Services/>
-      <Resume/>
-      <Portfolio/>
-      <Pricing/>
-      <Blog/>
-      <Contact/>
+     
 
     </main>
     </>
