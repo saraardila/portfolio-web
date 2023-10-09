@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+
+import React from 'react';
 import './App.css';
 import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
@@ -19,7 +20,15 @@ const App = () => {
 
     <Sidebar/>
     <main className='=main'>
-     
+      
+      <Home/>
+      <About/>
+      <Services/>
+      <Resume/>
+      <Portfolio/>
+      <Pricing/>
+      <Blog/>
+      <Contact/>
 
     </main>
     </>
