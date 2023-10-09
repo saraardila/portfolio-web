@@ -19,8 +19,7 @@ const App = () => {
     <>
 
     <Sidebar/>
-    <main className='=main'>
-      
+    <main className='main'>
       <Home/>
       <About/>
       <Services/>
