@@ -4,7 +4,15 @@ const HeaderSocials = () => {
   return (
    <div className="home__socials">
 
-    <a href="" className="home__social-link" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/sara-ardila/" className="home__social-link" target="_blank">
+    <i class="fa-brands fa-linkedin-in"></i>
+    </a>
+
+    <a href="https://github.com/saraardila" className="home__social-link" target="_blank">
+    <i class="fa-brands fa-github"></i>
+    </a>
+
+
    </div>
   )
 }

@@ -1,6 +1,8 @@
 import React from 'react';
 import "./home.css";
-import Me from "../../assets/avatar-5.svg";
+import Me from "../../assets/avatar-bueno.svg";
+import HeaderSocials from './HeaderSocials';
+import ScrollDown from './ScrollDown';
 
 
 const Home = () => {
@@ -13,6 +15,12 @@ const Home = () => {
 
       <h1 className="home__name">Sara Ardila</h1>
       <span className="home__education">I'm a mobile developer</span>
+
+      <HeaderSocials />
+
+      <a href="#contact" className="btn">Hire Me</a>
+
+      <ScrollDown />
 
     </div>
    </section>
