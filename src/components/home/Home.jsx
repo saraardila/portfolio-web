@@ -24,7 +24,7 @@ const Home = () => {
 
     </div>
 
-    <Shapes/>
+     <Shapes/>
    </section>
   )
 }
