@@ -1,7 +1,5 @@
 import React from 'react';
 import "./sidebar.css";
-import Logo from "../../assets/logo.svg";
-import Logo2 from "../../assets/logo2.svg";
 import Logo3 from "../../assets/logo3.svg";
 
 

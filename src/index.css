@@ -170,7 +170,6 @@
     display: inline-block;
     background-color: var(--first-color);
     font-weight: var(--font-bold);
-
   }
 
   @keyframes button-push {
@@ -185,7 +184,7 @@
     }
   }
 
-  .btn:hover{
-
+  .btn:hover {
+    
     animation: button-push 0.3s linear 1;
   }
