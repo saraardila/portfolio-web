@@ -1,8 +1,9 @@
 import React from "react";
 import Image from "../../assets/avatar-2.svg";
 import "./about.css";
-import AboutBox
- from "./AboutBox";
+import AboutBox from "./AboutBox";
+
+
 const About = () => {
   return (
     <section className="about container section" id="about">
@@ -27,7 +28,7 @@ const About = () => {
           <div className="about__skills grid">
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">Development</h3>
+                <h3 className="skills__name">Desarrollo</h3>
                 <span className="skills__number">80%</span>
               </div>
               <div className="skills__bar">
@@ -37,7 +38,7 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">UI/UX design</h3>
+                <h3 className="skills__name">Diseño</h3>
                 <span className="skills__number">60%</span>
               </div>
               <div className="skills__bar">
@@ -47,7 +48,7 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">Photography</h3>
+                <h3 className="skills__name">Fotografía</h3>
                 <span className="skills__number">95%</span>
               </div>
               <div className="skills__bar">
