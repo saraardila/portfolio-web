@@ -15,7 +15,7 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              ¡Hola! Soy Sara, desarrolladora en Madrid, España. Tengo alto
+              Soy Sara, desarrolladora en Madrid, España. Tengo alto
               interés en desarrollo y diseño de aplicaciones multiplatadorma.
               Actualmente estoy aprendiendo Kotlin, y tengo experiencia
               profesional en BBDD, diseño y fotografía.

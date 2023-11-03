@@ -14,11 +14,11 @@ const Home = () => {
       <img src={Me} alt="" className="home__img" />
 
       <h1 className="home__name">Sara Ardila</h1>
-      <span className="home__education">I'm a mobile developer</span>
+      <span className="home__education">¡Hola! Soy desarrolladora de software</span>
 
       <HeaderSocials />
 
-      <a href="#contact" className="btn">Hire Me</a>
+      <a href="#contact" className="btn">Contáctame</a>
 
       <ScrollDown />
 
