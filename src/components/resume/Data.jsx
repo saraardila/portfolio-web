@@ -6,7 +6,7 @@ const Data = [
     category: "education",
     icon: "icon-graduation",
     year: "2019 - 2021",
-    title: "Técnico Superior en Desarrollo de Aplicaciones Multiplataforma",
+    title: "FP Superior en Desarrollo de Aplicaciones Multiplataforma",
     desc: "Escuela Profesional Santa Ana y San Rafael, Madrid.",
   },
   {
@@ -17,20 +17,20 @@ const Data = [
     title: "Máster en Diseño Gráfico y Pintura Digital",
     desc: "En ARTENEO IMAGEN, S.L.",
   },
-  {
+ /*  {
     id: 3,
     category: "education",
     icon: "icon-graduation",
     year: "2011-2014",
     title: "Bachillerato",
     desc: "IES Rey Pastor, Madrid.",
-  },
+  }, */
   {
     id: 4,
     category: "education",
     icon: "icon-graduation",
     year: "2014-2016",
-    title: "Técnico Superior en Iluminación, Captación y Tratamiento de la Imagen",
+    title: "FP Superior en Iluminación, Captación y Tratamiento de la Imagen",
     desc: "IES Carlos Rodríguez María de Valcárcel, Madrid.",
   },
   {
@@ -38,8 +38,8 @@ const Data = [
     category: "experience",
     icon: "icon-briefcase",
     year: "Enero 2022 - Junio 2023",
-    title: "Desarrolladora Back-End",
-    desc: "Desarrolladora en Virtual Desk para el aplicativo del Consorcio Regional de Transportes de Madrid. PL/SQL, Oracle Forms, Oracle Reports y soporte.",
+    title: "Desarrolladora Full-Stack",
+    desc: "Desarrollo para el aplicativo del CRTM. PL/SQL, Oracle Forms, Oracle Reports",
   },
   {
     id: 6,
@@ -47,7 +47,7 @@ const Data = [
     icon: "icon-briefcase",
     year: "Abril - Junio 2021",
     title: "Desarrolladora Front-End",
-    desc: "Prácticas de empresa como desarrolladora en Cloud District asumiendo tareas en React, experiencia en metodología agile (Scrum) y control de versiones en Git.",
+    desc: "Desarollo multiproyecto con React, metodología agile (Scrum) y control de versiones en Git.",
   },
   {
     id: 7,
@@ -57,14 +57,14 @@ const Data = [
     title: "Fotografía de eventos",
     desc: "Fotógrafa, operaria de cámara y editora en diversas empresas de bodas.",
   },
-  {
+/*   {
     id: 8,
     category: "experience",
     icon: "icon-briefcase",
     year: "Febrero-Marzo 2018",
     title: "Diseñadora gráfica",
     desc: "Prácticas como diseñadora gráfica en Polar Marketing - Contenido publicitario,redes sociales...etc",
-  },
+  }, */
 ];
 
 export default Data;
