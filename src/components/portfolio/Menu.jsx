@@ -20,7 +20,7 @@ const Menu = [
       image: Work3,
       title: "Web Edia",
       category: "Web",
-      link:"",
+      link:"https://edia-apk.web.app/",
     },
     ,
     {
