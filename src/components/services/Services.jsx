@@ -10,7 +10,7 @@ const data = [
     image: Image2,
     title: "Programación",
     description:
-      "Enfocada en desarrollo mo",
+      "Enfocada en desarrollo mobile",
   },
   {
     id: 1,
