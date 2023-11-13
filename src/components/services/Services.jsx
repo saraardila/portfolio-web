@@ -10,21 +10,21 @@ const data = [
     image: Image2,
     title: "Programación",
     description:
-      "Grado superior en Desarrollo de Aplicaciones Multiplataforma.",
+      "Enfocada en desarrollo mo",
   },
   {
     id: 1,
     image: Image1,
     title: "Diseño",
     description:
-      "Master en Diseño Gráfico y Pintura Digital.",
+      "Estudios y experiencia en diseño.",
   },
   {
     id: 3,
     image: Image3,
     title: "Fotografía",
     description:
-      "Grado superior en Iluminación, Captación y tratamiento de la imagen.",
+      "Fotógrafa con alta experiencia.",
   },
 ];
 

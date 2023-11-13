@@ -20,7 +20,7 @@ const About = () => {
               Actualmente estoy aprendiendo Kotlin, y tengo experiencia
               profesional en BBDD, diseño y fotografía.
             </p>
-            <a href="/CV_SaraArdila_2023.pdf" className="btn" download>
+            <a href="/CV_Sara_Ardila.pdf" className="btn" download>
               Download CV
             </a>
           </div>

@@ -1,50 +1,58 @@
-import Work1 from "../../assets/work-1.svg";
-import Work2 from "../../assets/work-2.svg";
-import Work3 from "../../assets/work-3.svg";
+import Work6 from "../../assets/work-1.svg";
+import Work2 from "../../assets/work2.svg";
+import Work3 from "../../assets/work3.svg";
 import Work4 from "../../assets/work-4.svg";
 import Work5 from "../../assets/work-5.svg";
-import Work6 from "../../assets/work-6.svg";
+import Work7 from "../../assets/work-7.svg";
 
 
 const Menu = [
     {
       id: 1,
-      image: Work1,
-      title: "Project Management Illustration",
-      category: "Design",
+      image: Work7,
+      title: "Desarrollo y diseño de la aplicación Edia",
+      category: "Mobile",
+      link:"https://github.com/saraardila/Edia-app#readme",
     },
-    {
-      id: 2,
-      image: Work2,
-      title: "Guest App Walkthrough Screens",
-      category: "Art",
-    },
+    ,
     {
       id: 3,
       image: Work3,
-      title: "Delivery App Wireframe",
-      category: "Branding",
+      title: "Web Edia",
+      category: "Web",
+      link:"",
+    },
+    ,
+    {
+      id: 2,
+      image: Work2,
+      title: "Desarrollo app cálculo IMC",
+      category: "Mobile",
+      link:"https://github.com/saraardila/IMCCalculator#readme",
     },
     ,
     {
       id: 4,
       image: Work4,
       title: "Onboarding Motivation",
-      category: "Design",
+      category: "Mobile",
+      link:"",
     },
     ,
     {
       id: 5,
       image: Work5,
       title: "iMac Mockup Design",
-      category: "Creative",
+      category: "Mobile",
+      link:"",
     },
     ,
     {
       id: 6,
       image: Work6,
       title: "Game Store App Concept",
-      category: "Art",
+      category: "Web",
+      link:"",
     },
   ];
 
