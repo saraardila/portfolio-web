@@ -1,20 +1,15 @@
 .resume__container {
-    
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 1.5rem;
+    row-gap: 1.5rem;
 }
-
 .timeline {
-
     background-color: var(--container-color);
     padding: 1.875rem;
     border-radius: var(--border-radius);
-    position: relative;
     box-shadow: var(--shadow);
-    text-wrap:pretty;
-
 }
-
 .timeline__item  {
 
     position: relative;
@@ -22,7 +17,12 @@
     padding-bottom: 0.5rem;
 
 }
-
+/* Responsive Media Query */
+@media screen and (max-width: 768px) {
+    .resume__container {
+        grid-template-columns: 1fr;
+    }
+}
 .timeline__item:last-child {
 
     padding-bottom: 0;

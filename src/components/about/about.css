@@ -1,6 +1,8 @@
 .about__container {
+    display: grid;
     grid-template-columns: 3fr 9fr;
     column-gap: 1.875rem;
+    align-items: start;
 }
 
 .about__data{ /*contenedor del texto*/
@@ -47,6 +49,17 @@
     justify-content: space-between;
     margin-bottom: 1rem;
 
+}
+
+/* Responsive Media Query */
+@media screen and (max-width: 768px) {
+    .about__container {
+        grid-template-columns: 1fr;
+    }
+
+    .about__data {
+        padding: 1rem;
+    }
 }
 
 .skills__name {

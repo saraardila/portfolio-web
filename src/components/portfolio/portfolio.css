@@ -19,6 +19,7 @@
 }
 
 .work__container {
+    display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.875rem;
 }
@@ -29,6 +30,12 @@
     overflow: hidden;
     border-radius: var(--border-radius);
     box-shadow: var(--shadow);
+}
+/* Responsive Media Query */
+@media screen and (max-width: 768px) {
+    .work__container {
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
 
 .work__mask {

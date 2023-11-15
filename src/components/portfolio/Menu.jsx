@@ -1,8 +1,8 @@
-import Work6 from "../../assets/work-1.svg";
+import Work6 from "../../assets/work6.svg";
 import Work2 from "../../assets/work2.svg";
 import Work3 from "../../assets/work3.svg";
-import Work4 from "../../assets/work-4.svg";
-import Work5 from "../../assets/work-5.svg";
+import Work4 from "../../assets/work4.svg";
+import Work5 from "../../assets/work5.svg";
 import Work7 from "../../assets/work-7.svg";
 
 
@@ -34,15 +34,15 @@ const Menu = [
     {
       id: 4,
       image: Work4,
-      title: "Onboarding Motivation",
+      title: "Buscador de super heroes",
       category: "Mobile",
-      link:"",
+      link:"https://github.com/saraardila/SuperHeroApp/tree/master#superheroapp",
     },
     ,
     {
       id: 5,
       image: Work5,
-      title: "iMac Mockup Design",
+      title: "App Horóscopo",
       category: "Mobile",
       link:"",
     },
@@ -50,9 +50,9 @@ const Menu = [
     {
       id: 6,
       image: Work6,
-      title: "Game Store App Concept",
-      category: "Web",
-      link:"",
+      title: "Aplicación de escritorio en Java",
+      category: "Otros",
+      link:"https://github.com/saraardila/HousePlants/blob/main/README.md",
     },
   ];
 

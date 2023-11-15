@@ -5,6 +5,7 @@ import Logo3 from "../../assets/logo4.svg";
 
 const Sidebar = () => {
   return (
+    
     <aside className='aside'>
 
     <a href="#home" className="nav__logo">
