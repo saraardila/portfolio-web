@@ -15,10 +15,8 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Soy Sara, desarrolladora en Madrid, España. Tengo alto
-              interés en desarrollo y diseño de aplicaciones multiplatadorma.
-              Actualmente estoy aprendiendo Kotlin, y tengo experiencia
-              profesional en BBDD, diseño y fotografía.
+              Soy Sara, desarrolladora en Madrid, España. Enfocada en desarrollo mobile y apasionada por la innovación tecnológica.
+              Dispongo de experiencia profesional en BBDD, diseño y fotografía lo que me convierten en una profesional versátil en continuo aprendizaje.
             </p>
             <a href="/CV_Sara_Ardila.pdf" className="btn" download>
               Download CV

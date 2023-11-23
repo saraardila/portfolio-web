@@ -17,20 +17,20 @@ const App = () => {
   return (
 
     <>
-
-    <Sidebar/>
+  
+    <Sidebar />
     <main className='main'>
-      <Home/>
-      <About/>
-      <Services/>
-      <Resume/>
-      <Portfolio/>
-      <Pricing/>
-      <Blog/>
-      <Contact/>
+      <Home />
+      <About />
+      <Services />
+      <Resume />
+      <Portfolio />
+      {/* <Pricing />
+      <Blog /> */}
+      <Contact />
 
-    </main>
-    </>
+    </main></>
+  
   )
 }
  

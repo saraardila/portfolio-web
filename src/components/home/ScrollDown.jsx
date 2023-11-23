@@ -1,4 +1,5 @@
 import React from 'react'
+import './home.css'
 
 const ScrollDown = () => {
   return (
@@ -7,7 +8,7 @@ const ScrollDown = () => {
 
         <a href="#about" className="mouse__wrapper">
 
-            <span className="home__scroll-name">Scroll Down</span>
+            <span className="home_scroll-name">Scroll Down</span>
             <span className="mouse">
 
                     <span className="wheel"></span>
